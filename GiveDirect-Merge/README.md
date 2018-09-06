@@ -1,2 +1,2 @@
-# GiveDirect-Multi
-A tool to send XLM to multiple recipients in a single transaction from an Interstellar multisig account.
+# GiveDirect-MultiTool Merge
+A tool to merge multiple accounts containing XLM and anchored tokens into a single account.
